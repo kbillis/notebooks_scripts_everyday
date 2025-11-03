@@ -63,7 +63,7 @@ def sent_email_to_inform(symbol, action, text):
         # Replaced print with log.info for consistency with original code
         log.info(
             "Error: SENDER_EMAIL or SENDGRID_API_KEY environment variables not set.")
-        log.info("Please set these variables and try again.")
+        log.info("Please set these variables and tgit ary again.")
         return 0    
     
     
