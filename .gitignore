@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# iignore files: 
+./employment/notebooks/prepare_CV/witer.ipynb
+
+
 # C extensions
 *.so
 
